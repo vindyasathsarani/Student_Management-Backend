@@ -1,0 +1,25 @@
+# Sensitive files
+.env
+.env.local
+seeders/
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Test outputs
+coverage/
+.nyc_output/
+test-results.xml
+
+# Logs and databases
+*.log
+*.pid
+
+# Editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db 

@@ -2,5 +2,7 @@
 .env
 package-lock.json
 node_modules/
-/test/results/
-/test/coverage/ 
+coverage/
+.nyc_output/
+test-results.xml
+seeders/
